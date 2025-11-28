@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vivek Raja — MERN Stack Developer | Building High-Performance, Scalable, and Business-Driven Web Applications with Precision and Innovation</title>
+  <meta name="description" content= "Vivek Raja is a results-driven Full-Stack MERN Developer with strong proficiency in MongoDB, Express.js, React.js, and Node.js. He specializes in building scalable, responsive, and efficient web applications, delivering clean code, optimized backend architecture, and practical solutions that create measurable business value.">
+
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="img/favicon.svg">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@300;400;500;600&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+  
+  <!-- Three.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  
+  <!-- Particles.js -->
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  
+  <!-- GSAP for advanced animations -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Particle Background -->
+  <div id="particles-js"></div>
+  
+ <!-- Floating 3D ID Card -->
+<div id="floating-card" class="floating-id-card">
+  <div class="card-container">
+    <div class="card-front">
+      <div class="card-header">
+        <div class="card-logo">
+          <i class="bi bi-cpu-fill"></i>
+        </div>
+        <div class="card-title">FULL-STACK MERN DEVELOPER</div>
+      </div>
+      <div class="card-content">
+        <div class="card-avatar">
+          <img src="img/Portfolio profile.jpg" alt="Portrait of Vivek Raja" class="avatar-img">
+          <div class="avatar-glow"></div>
+        </div>
+        <div class="card-info">
+          <h3 class="card-name">VIVEK RAJA</h3>
+          <div class="card-role">MERNArchitect • CodeVortex</div>
+          <div class="card-stats">
+            <div class="stat-item">
+              <span class="stat-value" data-counter="repos" aria-live="polite">12</span>
+              <span class="stat-label">💼 PROJECTS</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-value" data-counter="stars" aria-live="polite">5</span>
+              <span class="stat-label">🏆 ACHIEVEMENTS</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="access-level">💎 LEVEL: SPECIALIST</div>
+        <div class="card-id">🆔 ID: VR-2025-MERN</div>
+      </div>
+    </div>
+    <div class="card-back">
+      <div class="card-back-content">
+        <h4>TECHNOLOGIES I MASTER</h4>
+        <div class="domain-list">
+          <div class="domain-item">• MONGODB</div>
+          <div class="domain-item">• EXPRESS.JS</div>
+          <div class="domain-item">• REACT.JS</div>
+          <div class="domain-item">• NODE.JS</div>
+          <div class="domain-item">• FULL-STACK DEVELOPMENT</div>
+        </div>
+        <div class="security-chip">
+          <i class="bi bi-shield-check"></i>
+          <span>PROVEN</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <!-- Hero Section -->
+<section id="home" class="hero-section">
+  <div class="hero-3d-container">
+    <div id="neural-network"></div>
+  </div>
+  <div class="container position-relative">
+    <div class="row align-items-center min-vh-100">
+      <div class="col-lg-8">
+        <div class="hero-content">
+          <div class="status-indicator">
+            <span class="status-dot"></span>
+            <span class="status-text">MISSION ACTIVE</span>
+          </div>
+          <h1 class="hero-title">
+            <span class="title-line-1">VIVEK</span>
+            <span class="title-line-2 cyber-glow">RAJA</span>
+          </h1>
+          <div class="hero-subtitle">
+            <span class="role-prefix">></span>
+            <span class="typed-text">Full-Stack MERN Specialist</span>
+            <span class="typed-cursor">_</span>
+          </div>
+          <p class="hero-description">
+            I architect high-performance MERN applications, delivering scalable backends, interactive frontends, and clean, maintainable solutions that drive measurable business impact.
+          </p>
+          
+          <!-- Neural Network Badges -->
+          <div class="neural-badges">
+            <div class="neural-badge">
+              <i class="bi bi-github"></i>
+              <span>OPEN_SOURCE LEADER</span>
+            </div>
+            <div class="neural-badge">
+              <i class="bi bi-code-square"></i>
+              <span>API_ENGINEERING</span>
+            </div>
+            <div class="neural-badge">
+              <i class="bi bi-lightning-charge"></i>
+              <span>ENTERPRISE_GRADE</span>
+            </div>
+          </div>
+          
+          <div class="hero-actions">
+            <button class="cyber-btn primary" onclick="scrollToSection('ai-lab')">
+              <span>VIEW_MY_PORTFOLIO</span>
+              <i class="bi bi-arrow-right"></i>
+            </button>
+            <button class="cyber-btn secondary" onclick="activateFloatingCard()">
+              <span>ACCESS_ID_CARD</span>
+              <i class="bi bi-credit-card"></i>
+            </button>
+            <a class="cyber-btn secondary" href="mailto:vivek.rajavivek773@gmail.com" aria-label="Contact Vivek via email">
+              <span>GET_IN_TOUCH</span>
+              <i class="bi bi-envelope"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="hero-portrait" role="img" aria-label="Photo of Vivek Raja" onclick="activateFloatingCard()">
+          <img src="img/Portfolio profile.jpg" alt="Vivek Raja portrait" loading="eager">
+          <div class="portrait-glow"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+ <!-- About/Bio Section -->
+<section id="about" class="bio-section">
+  <div class="bio-container">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="bio-terminal">
+            <div class="terminal-header">
+              <div class="terminal-controls">
+                <span class="control-dot red"></span>
+                <span class="control-dot yellow"></span>
+                <span class="control-dot green"></span>
+              </div>
+              <div class="terminal-title">dev_matrix.exe</div>
+            </div>
+            <div class="terminal-content">
+              <div class="terminal-line">
+                <span class="prompt">vivek@dev-core:~$ SKILLS>MASTERED</span>
+                <span class="command">cat bio.txt</span>
+              </div>
+              <div class="bio-text">
+                <div class="bio-line">
+                  <span class="line-number">01</span>
+                  <span class="bio-content">Full-Stack MERN Architect | Engineering Scalable, Enterprise-Ready Web Solutions</span>
+                </div>
+                <div class="bio-line">
+                  <span class="line-number">02</span>
+                  <span class="bio-content">Bridging Scalable Backend Architecture with Intuitive Frontend Experiences</span>
+                </div>
+                <div class="bio-line">
+                  <span class="line-number">03</span>
+                  <span class="bio-content">Proficient in MongoDB, Express.js, React.js, Node.js, and CI/CD Pipeline Automation</span>
+                </div>
+                <div class="bio-line">
+                  <span class="line-number">04</span>
+                  <span class="bio-content">Building maintainable code, optimizing performance, delivering impact</span>
+                </div>
+              </div>
+              <div class="system-stats">
+                <div class="stat-grid">
+                  <div class="stat-cell">
+                    <div class="stat-value" data-counter="projects" aria-live="polite">18</div>
+                    <div class="stat-unit">IMPACTFUL_SOLUTIONS_DELIVERED</div>
+                  </div>
+                  <div class="stat-cell">
+                    <div class="stat-value" data-counter="clients" aria-live="polite">14</div>
+                    <div class="stat-unit">ENGAGED_CLIENTS</div>
+                  </div>
+                  <div class="stat-cell">
+                    <div class="stat-value" data-counter="deployments" aria-live="polite">16</div>
+                    <div class="stat-unit">LAUNCHED_SOLUTIONS</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+  <!-- Focus Areas (Consistent Section) -->
+<section id="focus" class="ai-laboratory">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="lab-header">
+          <h2 class="lab-title">
+            <span class="title-prefix">[</span>
+            <span class="title-main">CORE_EXPERTISE</span>
+            <span class="title-suffix">]</span>
+          </h2>
+          <div class="lab-subtitle">Core expertise delivering reliable, high-performance, impactful solutions</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="lab-deck-container">
+      <div class="deck-wrapper">
+        <!-- Open Source -->
+        <div class="lab-card" data-type="open-source">
+          <div class="card-hologram"></div>
+          <div class="card-inner">
+            <div class="card-header">
+              <div class="card-icon-container">
+                <i class="bi bi-github"></i>
+              </div>
+              <h3 class="card-title">OPEN_SOURCE LEADER</h3>
+            </div>
+            <div class="card-body">
+              <div class="neural-pattern"></div>
+              <div class="card-description">
+                Contributing to modular, scalable, and community-driven projects with reusable architecture
+              </div>
+              <div class="tech-matrix">
+                <span class="tech-node">JavaScript</span>
+                <span class="tech-node">Node.js</span>
+                <span class="tech-node">Impact</span>
+              </div>
+            </div>
+            <div class="card-footer">
+              <a href="https://github.com/VivekRaja01/" target="_blank" rel="noopener noreferrer" class="cyber-btn secondary" aria-label="View GitHub Projects">
+                <span>VIEW_MY_PORTFOLIO</span>
+                <i class="bi bi-arrow-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- API Development -->
+        <div class="lab-card" data-type="prompt-engineering">
+          <div class="card-hologram"></div>
+          <div class="card-inner">
+            <div class="card-header">
+              <div class="card-icon-container">
+                <i class="bi bi-code-square"></i>
+              </div>
+              <h3 class="card-title">API_DEVELOPMENT</h3>
+            </div>
+            <div class="card-body">
+              <div class="neural-pattern"></div>
+              <div class="card-description">
+                Designing intuitive, scalable APIs that translate complex logic into actionable solutions
+              </div>
+              <div class="tech-matrix">
+                <span class="tech-node">Express.js</span>
+                <span class="tech-node">REST & GraphQL</span>
+                <span class="tech-node">Backend</span>
+              </div>
+            </div>
+            <div class="card-footer">
+              <a href="#focus" class="cyber-btn secondary" aria-label="Learn more about API Development">
+                <span>DISCOVER_MORE</span>
+                <i class="bi bi-arrow-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Web Infrastructure -->
+        <div class="lab-card" data-type="mlops-infra">
+          <div class="card-hologram"></div>
+          <div class="card-inner">
+            <div class="card-header">
+              <div class="card-icon-container">
+                <i class="bi bi-cloud-arrow-up"></i>
+              </div>
+              <h3 class="card-title">WEB_ARCHITECTURE</h3>
+            </div>
+            <div class="card-body">
+              <div class="neural-pattern"></div>
+              <div class="card-description">
+                Architecting robust, observable, and highly available systems to deliver seamless user experiences
+              </div>
+              <div class="tech-matrix">
+                <span class="tech-node">React.js</span>
+                <span class="tech-node">MongoDB</span>
+                <span class="tech-node">RESTful APIs</span>
+              </div>
+            </div>
+            <div class="card-footer">
+              <a href="#focus" class="cyber-btn secondary" aria-label="View Web Infrastructure Solutions">
+                <span>EXPLORE_SOLUTIONS</span>
+                <i class="bi bi-arrow-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+ <!-- Skill Deck (Poker Theme) -->
+<section id="skills" class="skill-deck-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="expertise-header">
+          <h2 class="expertise-title">
+            <span class="title-bracket">[</span>
+            <span class="title-text">SKILL_EXPERTISE</span>
+            <span class="title-bracket">]</span>
+          </h2>
+          <div class="expertise-subtitle">Flip to reveal tools, shuffle to explore more</div>
+        </div>
+        <div class="deck-actions" role="toolbar" aria-label="Deck controls">
+          <button class="cyber-btn secondary" id="deck-shuffle" aria-label="Shuffle deck"><i class="bi bi-shuffle"></i><span>DISCOVER</span></button>
+          <button class="cyber-btn secondary" id="deck-deal" aria-label="Deal cards"><i class="bi bi-box-arrow-up-right"></i><span>REVEAL</span></button>
+          <button class="cyber-btn secondary" id="deck-fan" aria-label="Fan cards"><i class="bi bi-arrows"></i><span>UNFOLD</span></button>
+          <button class="cyber-btn secondary" id="deck-reset" aria-label="Reset deck"><i class="bi bi-arrow-counterclockwise"></i><span>REFRESH</span></button>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="poker-table" aria-live="polite" aria-atomic="true">
+          <div class="skill-deck" id="skill-deck">
+            <!-- Cards -->
+            <div class="skill-card" data-skill="HTML & CSS" data-suite="spade" tabindex="0" aria-label="HTML & CSS card">
+              <div class="card-face card-front">
+                <i class="bi bi-code-square"></i>
+                <span class="card-title">HTML & CSS</span>
+              </div>
+              <div class="card-face card-back">
+                <div class="card-details">Responsive Layouts • Flexbox • Grid • Tailwind CSS • Modern Frontend Design</div>
+                <div class="card-level">SPECIALIST</div>
+              </div>
+            </div>
+            <div class="skill-card" data-skill="JavaScript" data-suite="heart" tabindex="0" aria-label="JavaScript card">
+              <div class="card-face card-front">
+                <i class="bi bi-filetype-js"></i>
+                <span class="card-title">JAVASCRIPT</span>
+              </div>
+              <div class="card-face card-back">
+                <div class="card-details">ES6+ • DOM Manipulation • Async/Await • Modern JavaScript</div>
+                <div class="card-level">SPECIALIST</div>
+              </div>
+            </div>
+            <div class="skill-card" data-skill="React.js" data-suite="diamond" tabindex="0" aria-label="React.js card">
+              <div class="card-face card-front">
+                <i class="bi bi-bootstrap-reboot"></i>
+                <span class="card-title">REACT.JS</span>
+              </div>
+              <div class="card-face card-back">
+                <div class="card-details">Hooks • Context API • Router • Redux • Modern React</div>
+                <div class="card-level">SPECIALIST</div>
+              </div>
+            </div>
+            <div class="skill-card" data-skill="Node.js" data-suite="club" tabindex="0" aria-label="Node.js card">
+              <div class="card-face card-front">
+                <i class="bi bi-node-plus-fill"></i>
+                <span class="card-title">NODE.JS</span>
+              </div>
+              <div class="card-face card-back">
+                <div class="card-details">Express • REST APIs • Middleware • JWT • Scalable Backend</div>
+                <div class="card-level">SPECIALIST</div>
+              </div>
+            </div>
+            <div class="skill-card" data-skill="MongoDB" data-suite="spade" tabindex="0" aria-label="MongoDB card">
+              <div class="card-face card-front">
+                <i class="bi bi-database-fill"></i>
+                <span class="card-title">MONGODB</span>
+              </div>
+              <div class="card-face card-back">
+                <div class="card-details">CRUD • Aggregation • Mongoose • Indexing • Scalable Database</div>
+                <div class="card-level">SPECIALIST</div>
+              </div>
+            </div>
+            <div class="skill-card" data-skill="Fullstack Development" data-suite="heart" tabindex="0" aria-label="Fullstack Development card">
+              <div class="card-face card-front">
+                <i class="bi bi-laptop"></i>
+                <span class="card-title">FULLSTACK</span>
+              </div>
+              <div class="card-face card-back">
+                <div class="card-details">MERN Stack • REST API Integration • JWT Auth • Full-Stack Solutions</div>
+                <div class="card-level">SPECIALIST</div>
+              </div>
+            </div>
+            <div class="skill-card" data-skill="Git & GitHub" data-suite="diamond" tabindex="0" aria-label="Git & GitHub card">
+              <div class="card-face card-front">
+                <i class="bi bi-git"></i>
+                <span class="card-title">GIT & GITHUB</span>
+              </div>
+              <div class="card-face card-back">
+                <div class="card-details">Version Control • Branching • Pull Requests • Git Workflow</div>
+                <div class="card-level">EXPERTISE</div>
+              </div>
+            </div>
+            <div class="skill-card" data-skill="API Development" data-suite="club" tabindex="0" aria-label="API Development card">
+              <div class="card-face card-front">
+                <i class="bi bi-code-square"></i>
+                <span class="card-title">API DEVELOPMENT</span>
+              </div>
+              <div class="card-face card-back">
+                <div class="card-details">REST • Postman • Express • JWT • API Development</div>
+                <div class="card-level">EXPERTISE</div>
+              </div>
+            </div>
+            <div class="skill-card" data-skill="Deployment & Cloud" data-suite="spade" tabindex="0" aria-label="Deployment & Cloud card">
+              <div class="card-face card-front">
+                <i class="bi bi-cloud"></i>
+                <span class="card-title">CLOUD</span>
+              </div>
+              <div class="card-face card-back">
+                <div class="card-details">Vercel • Netlify • Heroku • AWS Basics • Cloud Deployment</div>
+                <div class="card-level">EXPERTISE</div>
+              </div>
+            </div>
+            <div class="skill-card" data-skill="Debugging & Testing" data-suite="heart" tabindex="0" aria-label="Debugging & Testing card">
+              <div class="card-face card-front">
+                <i class="bi bi-bug"></i>
+                <span class="card-title">DEBUG & TEST</span>
+              </div>
+              <div class="card-face card-back">
+                <div class="card-details">Chrome DevTools • Unit Testing • Jest • Quality Assurance</div>
+                <div class="card-level">EXPERTISE</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <!-- Analytics Dashboard -->
+<section id="stats" class="analytics-dashboard">
+  <div class="dashboard-grid-bg"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="dashboard-header">
+          <h2 class="dashboard-title">
+            <span class="title-icon"><i class="bi bi-graph-up-arrow"></i></span>
+            <span class="title-text">NEURAL_INTEL</span>
+            <span class="title-status">VIEW_NOW</span>
+          </h2>
+          <div class="dashboard-subtitle">Real-time metrics showcasing coding impact, AI experiments, and contributions</div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="row">
+      <!-- GitHub Stats Hologram -->
+      <div class="col-lg-6 mb-4">
+        <div class="analytics-panel">
+          <div class="panel-header">
+            <div class="panel-title">
+              <i class="bi bi-github"></i>
+              <span>CODEBASE_OVERVIEW</span>
+            </div>
+            <div class="panel-status">
+              <span class="status-indicator online"></span>
+              <span>TRY_LIVE</span>
+            </div>
+          </div>
+          <div class="panel-content">
+            <div class="hologram-container">
+              <div class="hologram-frame">
+                <img src="https://github-readme-stats.vercel.app/api?username=VivekRaja01&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=e6edf3&icon_color=00ff41"
+                     alt="GitHub Stats" class="hologram-image" loading="lazy">
+                <div class="hologram-overlay"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Language Distribution -->
+      <div class="col-lg-6 mb-4">
+        <div class="analytics-panel">
+          <div class="panel-header">
+            <div class="panel-title">
+              <i class="bi bi-code-slash"></i>
+              <span>TECHNICAL_SKILL_MATRIX</span>
+            </div>
+            <div class="panel-status">
+              <span class="status-indicator online"></span>
+              <span>PROGRESS</span>
+            </div>
+          </div>
+          <div class="panel-content">
+            <div class="hologram-container">
+              <div class="hologram-frame">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekRaja01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=e6edf3" 
+                     alt="Top Languages" class="hologram-image" loading="lazy">
+                <div class="hologram-overlay"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Contribution Graph -->
+    <div class="row">
+      <div class="col-lg-12 mb-4">
+        <div class="analytics-panel wide-panel">
+          <div class="panel-header">
+            <div class="panel-title">
+              <i class="bi bi-activity"></i>
+              <span>NEURAL_PRODUCTIVITY_STREAM</span>
+            </div>
+            <div class="panel-controls">
+              <button class="control-btn active" data-period="year">ANNUAL</button>
+              <button class="control-btn" data-period="month">MONTHLY</button>
+              <button class="control-btn" data-period="week">WEEKLY</button>
+            </div>
+            <div class="panel-status">
+              <span class="status-indicator online"></span>
+              <span>ACTIVITY_STREAMING</span>
+            </div>
+          </div>
+          <div class="panel-content">
+            <div class="activity-graph-container">
+              <div class="hologram-frame wide">
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhshyganesh&theme=github-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=e6edf3&area=true&area_color=00ff41&custom_title=Neural%20Activity%20Stream" 
+                     alt="GitHub Activity Graph" class="hologram-image" loading="lazy">
+                <div class="hologram-overlay"></div>
+                <div class="scan-line"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Additional Metrics -->
+    <div class="row">
+      <div class="col-lg-3 mb-4" data-metric="gists">
+        <div class="metric-card">
+          <div class="metric-icon">
+            <i class="bi bi-cpu"></i>
+          </div>
+          <div class="metric-content">
+            <div class="metric-value">3</div>
+            <div class="metric-label">DEV_SNIPPETS</div>
+          </div>
+          <div class="metric-graph">
+            <canvas class="mini-chart" data-type="line"></canvas>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-3 mb-4" data-metric="repositories">
+        <div class="metric-card">
+          <div class="metric-icon">
+            <i class="bi bi-github"></i>
+          </div>
+          <div class="metric-content">
+            <div class="metric-value">18</div>
+            <div class="metric-label">BREAKTHROUGHS</div>
+          </div>
+          <div class="metric-graph">
+            <canvas class="mini-chart" data-type="bar"></canvas>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-3 mb-4" data-metric="stars">
+        <div class="metric-card">
+          <div class="metric-icon">
+            <i class="bi bi-star"></i>
+          </div>
+          <div class="metric-content">
+            <div class="metric-value">14</div>
+            <div class="metric-label">ACKNOWLEDGEMENTS</div>
+          </div>
+          <div class="metric-graph">
+            <canvas class="mini-chart" data-type="area"></canvas>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-3 mb-4" data-metric="followers">
+        <div class="metric-card">
+          <div class="metric-icon">
+            <i class="bi bi-people"></i>
+          </div>
+          <div class="metric-content">
+            <div class="metric-value">3</div>
+            <div class="metric-label">CONNECTIONS</div>
+          </div>
+          <div class="metric-graph">
+            <canvas class="mini-chart" data-type="pulse"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+ <!-- Footer -->
+<footer class="cyber-footer enhanced-footer">
+  <div class="footer-grid animated-footer-grid"></div>
+
+  <div class="container">
+    <div class="row align-items-center">
+      
+      <!-- Branding -->
+      <div class="col-md-6">
+        <div class="footer-brand">
+          <i class="bi bi-cpu-fill"></i>
+          <span class="footer-name">VIVEK RAJA </span>
+        </div>
+
+        <p class="footer-text">
+          &copy; 2025 • Crafted with Precision, Delivered with Impact 
+          <br>
+          <!-- 🔥 Professional tagline -->
+          <span class="footer-subtag">
+           MERN Stack Developer • Full-Stack Engineer • High-Impact Solutions Builder
+          </span>
+        </p>
+
+        <!-- 🔥 Footer badges -->
+        <div class="footer-badges">
+          <span class="badge cyber-badge"><i class="bi bi-lightning-charge-fill"></i> Rapid Development</span>
+          <span class="badge cyber-badge"><i class="bi bi-shield-lock-fill"></i> Secure Deployments</span>
+          <span class="badge cyber-badge"><i class="bi bi-braces"></i> Maintainable Code</span>
+        </div>
+      </div>
+
+      <!-- Status + Metrics -->
+      <div class="col-md-6 text-md-end">
+        <div class="footer-status enhanced-status">
+          <span class="status-dot online pulse-dot"></span>
+          <span>SYSTEM_OPERATIONAL</span>
+
+          <!-- Live build indicator -->
+          <div class="build-status">
+            <i class="bi bi-activity"></i>
+            <span>BUILD_STATUS: <b class="build-state">STABLE</b></span>
+          </div>
+
+          <!-- Footer mini analytics -->
+          <div class="footer-metrics">
+            <div class="metric">
+              <span class="metric-label">GIT_COMMITS</span>
+              <span class="metric-value">140+</span>
+            </div>
+            <div class="metric">
+              <span class="metric-label">GIT_PROJECTS</span>
+              <span class="metric-value">20+</span>
+            </div>
+            <div class="metric">
+              <span class="metric-label">GIT_RELEASES</span>
+              <span class="metric-value">16+</span>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer bottom strip -->
+<div class="footer-bottom-strip">
+  <span class="strip-glow"></span>
+</div>
+</footer>
+
+
+ <!-- Command Palette Modal -->
+<div class="modal fade" id="commandPalette" tabindex="-1" aria-labelledby="commandPaletteLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content cyber-modal">
+      <div class="modal-body p-0">
+        <div class="command-palette">
+          <div class="command-input-wrapper">
+            <i class="bi bi-terminal command-icon"></i>
+            <input type="text" class="command-input" placeholder="EXECUTE_TASK..." 
+                   aria-label="Command palette input" role="combobox" aria-expanded="false">
+          </div>
+          <div class="command-results" role="listbox">
+            <div class="command-item" role="option" data-target="#home">
+              <i class="bi bi-house-door"></i>
+              <span>NAVIGATE_DASHBOARD</span>
+            </div>
+            <div class="command-item" role="option" data-target="#about">
+              <i class="bi bi-person-badge"></i>
+              <span>VIEW_PROFILE</span>
+            </div>
+            <div class="command-item" role="option" data-target="#focus">
+              <i class="bi bi-lightning-charge"></i>
+              <span>EXPLORE_FOCUS_AREAS</span>
+            </div>
+            <div class="command-item" role="option" data-target="#skills">
+              <i class="bi bi-diagram-3"></i>
+              <span>INSPECT_SKILL_DECK</span>
+            </div>
+            <div class="command-item" role="option" data-target="#stats">
+              <i class="bi bi-graph-up-arrow"></i>
+              <span>MONITOR_ANALYTICS</span>
+            </div>
+            <div class="command-item" role="option" onclick="activateFloatingCard()">
+              <i class="bi bi-credit-card"></i>
+              <span>SHOW_IDENTITY_CARD</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  
+  <!-- Custom JS -->
+  <script src="main.js"></script>
+</body>
+</html>
