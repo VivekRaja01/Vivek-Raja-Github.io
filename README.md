@@ -3,7 +3,7 @@
 ### 👋 About Me
 Hi, I’m **Vivek Raja**, a passionate **MERN Stack Developer** building **scalable, responsive, and modern web applications**. I transform ideas into impactful digital solutions using **clean, maintainable code** and **full-stack expertise**, bridging frontend, backend, and database systems seamlessly.  
 
-🔗 **Portfolio:** [vivek-raja-github.io][(https://vivek-raja-github.io/)]
+[![Portfolio - Vivek Raja](https://img.shields.io/badge/Portfolio-Vivek_Raja-blue?style=for-the-badge)](https://vivekraja01.github.io/Vivek-Raja-Github.io/)
 
 ---
 
