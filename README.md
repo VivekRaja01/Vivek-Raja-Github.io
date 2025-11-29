@@ -77,7 +77,7 @@ I’m seeking **Full-Stack Developer roles** where I can contribute to **innovat
 
 ### ⭐ Support My Work
 If my projects inspire you, consider supporting me! ☕  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/akhshyganesh)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/vivekraja)
 
 ---
 
