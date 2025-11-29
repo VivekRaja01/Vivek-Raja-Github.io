@@ -75,7 +75,8 @@ Hi, I’m **Vivek Raja**, a passionate **MERN Stack Developer** building **scala
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=VivekRaja01&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=VivekRaja01&show_icons=true&theme=radical&hide_border=true" alt="Vivek Raja GitHub Stats" />
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekRaja01&theme=radical&hide_border=true" alt="GitHub Streak"/>  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekRaja01&theme=radical&hide_border=true" alt="Activity Graph"/>
 
