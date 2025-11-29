@@ -1,7 +1,7 @@
-# 🚀 Vivek Raja – MERN Stack Developer & Full-Stack Engineer
+# 🚀 Vivek Raja - MERN Stack Developer & Full-Stack Engineer
 
 ### 👋 About Me
-Hi, I’m **Vivek Raja**, a passionate **MERN Stack Developer** specializing in **scalable, responsive, and modern web applications**. I turn ideas into impactful solutions with **clean, maintainable code** and **full-stack expertise**.  
+Hi, I’m **Vivek Raja**, a passionate **MERN Stack Developer** specializing in building **scalable, responsive, and modern web applications**. I transform ideas into impactful digital solutions using **clean, maintainable code** and **full-stack expertise**.
 
 🔗 **Portfolio:** [vivek-raja-github.io](https://vivek-raja-github.io/)
 
@@ -9,54 +9,48 @@ Hi, I’m **Vivek Raja**, a passionate **MERN Stack Developer** specializing in 
 
 ### 💡 Core Technical Skills
 
-**Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Next.js, TypeScript, Vue.js  
-**Backend & DB:** Node.js, Express.js, MongoDB, PostgreSQL, MySQL  
-**Cloud & DevOps:** AWS, Google Cloud, Docker, Firebase, Heroku  
-**Tools & Design:** Git, Linux, Figma, Adobe Photoshop  
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+#### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+#### Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects (with Live Demos)
+### 🚀 Featured Projects
 
-#### **1. Udemy Clone**  
-![Udemy Clone](https://media.giphy.com/media/3o7aD4ZEFa8NquS3qk/giphy.gif)  
-Responsive e-learning platform replica with dynamic course recommendations, navbar, and footer.  
-🔗 [Live Demo](https://vivek-raja-github.io/udemy-clone) | [Code](https://github.com/VivekRaja01/Udemy-Clone)
+- **Udemy Clone** – Responsive layout with navbar, recommended courses/topics, and footer.  
+- **Trip Advisor Clone** – Multi-section responsive site with search, cards for hotels/restaurants, navigation menu, and filters.  
+- **Greenden** – Multi-page Tailwind CSS website; Top Performer of the Week.  
+- **Nostra - E-commerce Website** – Search & filter functionality using JavaScript.  
+- **TextAnalyzer** – Real-time text counter and analytics tool with interactive charts 📊📝  
+- **Registration Form with Real-Time Validation** – Disabled submit button until valid inputs.
 
----
-
-#### **2. Trip Advisor Clone**  
-![Trip Advisor Clone](https://media.giphy.com/media/26xBJuV0YNDRIq1Ji/giphy.gif)  
-Multi-section responsive site with search, cards, and filters for hotels & restaurants.  
-🔗 [Live Demo](https://vivek-raja-github.io/trip-advisor) | [Code](https://github.com/VivekRaja01/Trip-Advisor-Clone)
-
----
-
-#### **3. Greenden**  
-![Greenden](https://media.giphy.com/media/l41lXHnkmWchhUQk0/giphy.gif)  
-Multi-page Tailwind CSS website; recognized as **Top Performer of the Week**.  
-🔗 [Live Demo](https://vivek-raja-github.io/greenden) | [Code](https://github.com/VivekRaja01/Greenden)
-
----
-
-#### **4. Nostra - E-commerce Website**  
-![Nostra](https://media.giphy.com/media/xT0GqeSlGSRQb6U6hy/giphy.gif)  
-Search & filter functionality with dynamic product catalog using JavaScript.  
-🔗 [Live Demo](https://vivek-raja-github.io/nostra) | [Code](https://github.com/VivekRaja01/Nostra)
-
----
-
-#### **5. TextAnalyzer**  
-![TextAnalyzer](https://media.giphy.com/media/3ohs4x9eUcx7l2GqMM/giphy.gif)  
-Real-time text counter & analytics tool with **interactive charts** 📊📝  
-🔗 [Live Demo](https://vivek-raja-github.io/text-analyzer) | [Code](https://github.com/VivekRaja01/TextAnalyzer)
-
----
-
-#### **6. Registration Form with Real-Time Validation**  
-![Registration Form](https://media.giphy.com/media/xUPGcmP6cC0qODrQnK/giphy.gif)  
-Disabled submit button until valid inputs (Name, Email, Password) are provided.  
-🔗 [Live Demo](https://vivek-raja-github.io/registration-form) | [Code](https://github.com/VivekRaja01/Registration-Form)
+🔗 **Portfolio Link:** [vivek-raja-github.io](https://vivek-raja-github.io/)
 
 ---
 
@@ -77,22 +71,14 @@ Disabled submit button until valid inputs (Name, Email, Password) are provided.
 ---
 
 ### 💼 Open to Opportunities
-I’m seeking **Full-Stack Developer roles** to contribute to **innovative MERN projects**, collaborate with talented teams, and grow professionally. 🚀🤝
+I’m seeking **Full-Stack Developer roles** where I can contribute to **innovative MERN projects**, collaborate with talented teams, and grow professionally. 🚀🤝
 
 ---
 
 ### ⭐ Support My Work
+If my projects inspire you, consider supporting me! ☕  
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/akhshyganesh)
 
 ---
 
 *"Building the future, one line of code at a time."*
-
----
-
-✅ **Next Steps for You:**
-1. Replace the GIF placeholders with your **actual screen recordings or demo GIFs**.  
-2. Make sure all **Live Demo links + GitHub repo links** are correct.  
-3. Consider adding **technologies used** under each project.  
-4. Keep this README updated as you release **new projects**.
-
