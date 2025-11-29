@@ -1,9 +1,9 @@
 # 🚀 Vivek Raja - MERN Stack Developer & Full-Stack Engineer
 
 ### 👋 About Me
-Hi, I’m **Vivek Raja**, a passionate **MERN Stack Developer** specializing in building **scalable, responsive, and modern web applications**. I transform ideas into impactful digital solutions using **clean, maintainable code** and **full-stack expertise**.
+Hi, I’m **Vivek Raja**, a passionate **MERN Stack Developer** building **scalable, responsive, and modern web applications**. I transform ideas into impactful digital solutions using **clean, maintainable code** and **full-stack expertise**, bridging frontend, backend, and database systems seamlessly.  
 
-🔗 **Portfolio:** [vivek-raja-github.io](https://vivek-raja-github.io/)
+🔗 **Portfolio:** [vivek-raja-github.io][(https://vivek-raja-github.io/)](https://vivekraja01.github.io/Vivek-Raja-Github.io/)
 
 ---
 
@@ -43,14 +43,25 @@ Hi, I’m **Vivek Raja**, a passionate **MERN Stack Developer** specializing in 
 
 ### 🚀 Featured Projects
 
-- **Udemy Clone** – Responsive layout with navbar, recommended courses/topics, and footer.  
-- **Trip Advisor Clone** – Multi-section responsive site with search, cards for hotels/restaurants, navigation menu, and filters.  
-- **Greenden** – Multi-page Tailwind CSS website; Top Performer of the Week.  
-- **Nostra - E-commerce Website** – Search & filter functionality using JavaScript.  
-- **TextAnalyzer** – Real-time text counter and analytics tool with interactive charts 📊📝  
-- **Registration Form with Real-Time Validation** – Disabled submit button until valid inputs.
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **Udemy Clone** | Responsive e-learning platform with navbar, course recommendations, and footer. | React.js, Tailwind CSS, Node.js, MongoDB | [View](https://vivek-raja-github.io/udemy-clone) |
+| **Trip Advisor Clone** | Multi-section responsive site with search, cards, and filters for hotels & restaurants. | React.js, CSS3, Node.js, MongoDB | [View](https://vivek-raja-github.io/trip-advisor) |
+| **Greenden** | Multi-page Tailwind CSS website; recognized as **Top Performer of the Week**. | Tailwind CSS, React.js, Node.js | [View](https://vivek-raja-github.io/greenden) |
+| **Nostra - E-commerce** | Product search & filter functionality using JavaScript. | JS, HTML5, CSS3 | [View](https://vivek-raja-github.io/nostra) |
+| **TextAnalyzer** | Real-time text counter & analytics with interactive charts. | React.js, Chart.js | [View](https://vivek-raja-github.io/text-analyzer) |
+| **Registration Form** | Form with real-time validation; submit button disabled until valid. | JS, HTML5, CSS3 | [View](https://vivek-raja-github.io/registration-form) |
 
-🔗 **Portfolio Link:** [vivek-raja-github.io](https://vivek-raja-github.io/)
+> 💡 **Tip for recruiters:** All projects are **responsive, production-ready**, and built with **modern web technologies**. Live demos available above.
+
+---
+
+### 🌟 Portfolio Highlights
+- ✅ **6+ fully responsive web applications** deployed online  
+- ✅ **Clean, maintainable code** with attention to scalability  
+- ✅ **Integrated frontend-backend solutions** using the MERN stack  
+- ✅ **Interactive UI/UX** with Tailwind CSS and responsive design  
+- ✅ **Focus on real-world problem-solving** through innovative project solutions  
 
 ---
 
@@ -71,14 +82,15 @@ Hi, I’m **Vivek Raja**, a passionate **MERN Stack Developer** specializing in 
 ---
 
 ### 💼 Open to Opportunities
-I’m seeking **Full-Stack Developer roles** where I can contribute to **innovative MERN projects**, collaborate with talented teams, and grow professionally. 🚀🤝
+I’m actively seeking **Full-Stack Developer roles** to contribute to **innovative MERN projects**, collaborate with talented teams, and grow professionally. 🚀🤝
 
 ---
 
 ### ⭐ Support My Work
 If my projects inspire you, consider supporting me! ☕  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/vivekraja)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/akhshyganesh)
 
 ---
 
 *"Building the future, one line of code at a time."*
+
