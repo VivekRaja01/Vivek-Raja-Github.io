@@ -93,5 +93,15 @@ If my projects inspire you, consider supporting me! ☕
 
 ---
 
+<div align="center" >
+
+**⭐ Star my repositories if you find my full-stack projects valuable! short!**
+**🤝 Let’s connect and create scalable, high-performance web applications together!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=VivekRaja01&style=for-the-badge&color=blueviolet)
+
+</div>
+
+
 *"Building the future, one line of code at a time."*
 
