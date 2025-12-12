@@ -45,7 +45,7 @@ Hi, I’m **Vivek Raja**, a passionate **MERN Stack Developer** building **scala
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| **Udemy Clone** | Responsive e-learning platform with navbar, course recommendations, and footer. | React.js, Tailwind CSS, Node.js, MongoDB | [View](https://vivek-raja-github.io/udemy-clone) |
+| **Udemy Clone** | Responsive e-learning platform with navbar, course recommendations, and footer. | React.js, Tailwind CSS, Node.js, MongoDB | [View](https://vivekraja01.github.io/udemy-clone/) |
 | **Trip Advisor Clone** | Multi-section responsive site with search, cards, and filters for hotels & restaurants. | React.js, CSS3, Node.js, MongoDB | [View](https://vivek-raja-github.io/trip-advisor) |
 | **Greenden** | Multi-page Tailwind CSS website; recognized as **Top Performer of the Week**. | Tailwind CSS, React.js, Node.js | [View](https://vivek-raja-github.io/greenden) |
 | **Nostra - E-commerce** | Product search & filter functionality using JavaScript. | JS, HTML5, CSS3 | [View](https://vivek-raja-github.io/nostra) |
