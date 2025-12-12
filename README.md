@@ -46,11 +46,11 @@ Hi, I’m **Vivek Raja**, a passionate **MERN Stack Developer** building **scala
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
 | **Udemy Clone** | Responsive e-learning platform with navbar, course recommendations, and footer. | React.js, Tailwind CSS, Node.js, MongoDB | [View](https://vivekraja01.github.io/udemy-clone/) |
-| **Trip Advisor Clone** | Multi-section responsive site with search, cards, and filters for hotels & restaurants. | React.js, CSS3, Node.js, MongoDB | [View](https://vivek-raja-github.io/trip-advisor) |
-| **Greenden** | Multi-page Tailwind CSS website; recognized as **Top Performer of the Week**. | Tailwind CSS, React.js, Node.js | [View](https://vivek-raja-github.io/greenden) |
-| **Nostra - E-commerce** | Product search & filter functionality using JavaScript. | JS, HTML5, CSS3 | [View](https://vivek-raja-github.io/nostra) |
-| **TextAnalyzer** | Real-time text counter & analytics with interactive charts. | React.js, Chart.js | [View](https://vivek-raja-github.io/text-analyzer) |
-| **Registration Form** | Form with real-time validation; submit button disabled until valid. | JS, HTML5, CSS3 | [View](https://vivek-raja-github.io/registration-form) |
+| **Trip Advisor Clone** | Multi-section responsive site with search, cards, and filters for hotels & restaurants. | React.js, CSS3, Node.js, MongoDB | [View](https://vivekraja01.github.io/Trip-Explorer/) |
+| **Greenden** | Multi-page Tailwind CSS website; recognized as **Top Performer of the Week**. | Tailwind CSS, React.js, Node.js | [View](https://vivekraja01.github.io/Greenden-Tailwind/) |
+| **Nostra - E-commerce** | Product search & filter functionality using JavaScript. | JS, HTML5, CSS3 | [View](https://vivekraja01.github.io/Nostra-Ecommerce/) |
+| **TextAnalyzer** | Real-time text counter & analytics with interactive charts. | React.js, Chart.js | [View](https://vivekraja01.github.io/Text-Counter/) |
+| **Registration Form** | Form with real-time validation; submit button disabled until valid. | JS, HTML5, CSS3 | [View](https://vivekraja01.github.io/Login-page/) |
 
 > 💡 **Tip for recruiters:** All projects are **responsive, production-ready**, and built with **modern web technologies**. Live demos available above.
 
