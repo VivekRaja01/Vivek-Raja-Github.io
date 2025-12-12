@@ -103,6 +103,7 @@ If my projects inspire you, consider supporting me! ☕
 
 </div>
 
-
-*"Building the future, one line of code at a time."*
+<div align="center" >
+<p style="color:#8B0000;background:#000;padding:8px 12px;display:inline-block;font-weight:600;">"Building the future, one line of code at a time."</p>
+</div>
 
