@@ -62,6 +62,12 @@ Proficient with **version control, collaborative workflows,** and **UI/UX design
 | **Nostra - E-commerce** | An e-commerce interface with dynamic product search and filter functionality. | JS, HTML5, CSS3 | [View](https://vivekraja01.github.io/Nostra-Ecommerce/) |
 | **TextAnalyzer** | A real-time text analytics application with counters and interactive visual feedback. | React.js, Chart.js | [View](https://vivekraja01.github.io/Text-Counter/) |
 | **Registration Form** | A validated form with real-time input checks and controlled submission flow. | JS, HTML5, CSS3 | [View](https://vivekraja01.github.io/Login-page/) |
+| **Voices of the Wild** | An interactive and fully responsive animal gallery website featuring dark/light mode, real-time search, animated cards, and a mobile-friendly navigation experience. | HTML5, CSS3, JavaScript | [View](https://vivekraja01.github.io/Wild-Animal/) |
+| **Apple Website Clone** | A modern, responsive clone of the Apple India homepage built with component-based architecture, featuring sliders, modals, reusable UI components, and smooth interactions. | React.js, Tailwind CSS, React Icons | [View](https://vr-apple-clone.web.app/) |
+| **Do You Love Me?** | A playful interactive web experience showcasing creative UI logic, custom animations, media integration, and DOM manipulation for engaging user interactions. | HTML5, CSS3, JavaScript | [View](https://vivekraja01.github.io/Love-Me/) |
+| **TaskFlow Pro** | A modern task management web application with task CRUD operations, priority and status tracking, local storage persistence, search, filtering, and smooth animations. | React.js, Vite, Tailwind CSS, Framer Motion | [View](https://task-management-lpw1gg607-vivek-rajas-projects-85a2408e.vercel.app/) |
+| **EliteView** | A Netflix-inspired streaming web application featuring dynamic content browsing, favorites management, instant search, dark mode, and API-driven movie data. | React.js, Tailwind CSS, Framer Motion, React Router, TMDB API | [View](https://elite-view-mu.vercel.app/) |
+| **Rain Or Shine** | A real-time weather application displaying live forecasts, air quality data, interactive charts, and dynamic weather-based UI updates. | React.js, Tailwind CSS, Recharts, Chart.js, OpenWeatherMap API | [View](https://rain-or-shine-tau.vercel.app/) |
 
 > 💡 **Recruiter Note:** All projects are **live, responsive, and production-ready,** demonstrating real-world full-stack development practices.
 
