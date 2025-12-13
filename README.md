@@ -74,15 +74,23 @@ Proficient with **version control, collaborative workflows,** and **UI/UX design
 ---
 
 ### 🌟 Portfolio Highlights
-✅ **6+ deployed web applications** with live demos
+✅ **12+ live, deployed web applications** spanning frontend, full-stack, and API-driven projects
 
-✅ Strong focus on **scalable architecture and clean code**
+✅ Strong expertise in **MERN stack development** with end-to-end ownership (UI → backend → data)
 
-✅ **Full-stack MERN implementations** from UI to database
+✅ Built **real-world features** including authentication flows, search & filtering, CRUD operations, dashboards, and analytics
 
-✅ Modern **responsive UI/UX** using Tailwind CSS
+✅ Developed **API-integrated applications** using third-party services (TMDB, OpenWeatherMap)
 
-✅ Practical **problem-solving through real-world features**
+✅ Focus on **clean architecture, reusable components, and scalable codebases**
+
+✅ Designed **responsive, mobile-first UI/UX** using Tailwind CSS and modern CSS techniques
+
+✅ Implemented **state management, local storage persistence, and performance optimization**
+
+✅ Experience with **animations and motion UI** using Framer Motion and CSS transitions
+
+✅ Delivered **production-ready projects** with live demos, source code, and deployment best practices
 
 ---
 
