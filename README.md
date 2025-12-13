@@ -105,6 +105,7 @@ Actively seeking **Full-Stack Developer / MERN Stack Developer / React Developer
 
 ### ⭐ Support My Work
 If my projects add value, consider supporting or starring the repositories.
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/akhshyganesh)
 
 </div>
@@ -112,6 +113,7 @@ If my projects add value, consider supporting or starring the repositories.
 <div align="center" >
 
 **⭐ Star my repositories if you find my full-stack projects valuable!**
+
 **🤝 Let’s connect and create scalable, high-performance web applications together!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VivekRaja01&style=for-the-badge&color=blueviolet)
