@@ -69,9 +69,13 @@ Proficient with **version control, collaborative workflows,** and **UI/UX design
 
 ### 🌟 Portfolio Highlights
 ✅ **6+ deployed web applications** with live demos
+
 ✅ Strong focus on **scalable architecture and clean code**
+
 ✅ **Full-stack MERN implementations** from UI to database
+
 ✅ Modern **responsive UI/UX** using Tailwind CSS
+
 ✅ Practical **problem-solving through real-world features**
 
 ---
