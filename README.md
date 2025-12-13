@@ -1,7 +1,10 @@
 # 🚀 Vivek Raja – MERN Stack Developer | Full-Stack Engineer | React | Node.js | MongoDB
 
 ### 👋 About Me
-Hi, I’m **Vivek Raja**, a passionate **MERN Stack Developer** building **scalable, responsive, and modern web applications**. I transform ideas into impactful digital solutions using **clean, maintainable code** and **full-stack expertise**, bridging frontend, backend, and database systems seamlessly.  
+
+Hi, I’m **Vivek Raja,** a **MERN Stack Developer and Full-Stack Engineer** with strong hands-on experience in building **scalable, responsive, and performance-optimized web applications.** I specialize in **end-to-end full-stack development,** converting business requirements into **production-ready digital solutions** using **clean, maintainable, and reusable code.**
+
+My expertise spans **frontend engineering, backend API development, and database integration,** following modern development standards and real-world engineering practices.
 
 [![Portfolio - Vivek Raja](https://img.shields.io/badge/Portfolio-Vivek_Raja-blue?style=for-the-badge)](https://vivekraja01.github.io/Vivek-Raja-Github.io/)
 
