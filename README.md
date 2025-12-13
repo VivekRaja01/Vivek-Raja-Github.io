@@ -56,23 +56,23 @@ Proficient with **version control, collaborative workflows,** and **UI/UX design
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| **Udemy Clone** | Responsive e-learning platform with navbar, course recommendations, and footer. | React.js, Tailwind CSS, Node.js, MongoDB | [View](https://vivekraja01.github.io/udemy-clone/) |
-| **Trip Advisor Clone** | Multi-section responsive site with search, cards, and filters for hotels & restaurants. | React.js, CSS3, Node.js, MongoDB | [View](https://vivekraja01.github.io/Trip-Explorer/) |
-| **Greenden** | Multi-page Tailwind CSS website; recognized as **Top Performer of the Week**. | Tailwind CSS, React.js, Node.js | [View](https://vivekraja01.github.io/Greenden-Tailwind/) |
-| **Nostra - E-commerce** | Product search & filter functionality using JavaScript. | JS, HTML5, CSS3 | [View](https://vivekraja01.github.io/Nostra-Ecommerce/) |
-| **TextAnalyzer** | Real-time text counter & analytics with interactive charts. | React.js, Chart.js | [View](https://vivekraja01.github.io/Text-Counter/) |
-| **Registration Form** | Form with real-time validation; submit button disabled until valid. | JS, HTML5, CSS3 | [View](https://vivekraja01.github.io/Login-page/) |
+| **Udemy Clone** | A fully responsive e-learning platform featuring structured layouts, reusable components, and modern UI patterns. | React.js, Tailwind CSS, Node.js, MongoDB | [View](https://vivekraja01.github.io/udemy-clone/) |
+| **Trip Advisor Clone** | A travel discovery platform with search, cards, and filtering logic for hotels and restaurants. | React.js, CSS3, Node.js, MongoDB | [View](https://vivekraja01.github.io/Trip-Explorer/) |
+| **Greenden** | A multi-page responsive website built with Tailwind CSS; recognized as **Top Performer of the Week.** | Tailwind CSS, React.js, Node.js | [View](https://vivekraja01.github.io/Greenden-Tailwind/) |
+| **Nostra - E-commerce** | An e-commerce interface with dynamic product search and filter functionality. | JS, HTML5, CSS3 | [View](https://vivekraja01.github.io/Nostra-Ecommerce/) |
+| **TextAnalyzer** | A real-time text analytics application with counters and interactive visual feedback. | React.js, Chart.js | [View](https://vivekraja01.github.io/Text-Counter/) |
+| **Registration Form** | A validated form with real-time input checks and controlled submission flow. | JS, HTML5, CSS3 | [View](https://vivekraja01.github.io/Login-page/) |
 
-> 💡 **Tip for recruiters:** All projects are **responsive, production-ready**, and built with **modern web technologies**. Live demos available above.
+> 💡 **Recruiter Note:** All projects are **live, responsive, and production-ready,** demonstrating real-world full-stack development practices.
 
 ---
 
 ### 🌟 Portfolio Highlights
-- ✅ **6+ fully responsive web applications** deployed online  
-- ✅ **Clean, maintainable code** with attention to scalability  
-- ✅ **Integrated frontend-backend solutions** using the MERN stack  
-- ✅ **Interactive UI/UX** with Tailwind CSS and responsive design  
-- ✅ **Focus on real-world problem-solving** through innovative project solutions  
+✅ **6+ deployed web applications** with live demos
+✅ Strong focus on **scalable architecture and clean code**
+✅ **Full-stack MERN implementations** from UI to database
+✅ Modern **responsive UI/UX** using Tailwind CSS
+✅ Practical **problem-solving through real-world features**
 
 ---
 
@@ -94,20 +94,20 @@ Proficient with **version control, collaborative workflows,** and **UI/UX design
 ---
 
 ### 💼 Open to Opportunities
-I’m actively seeking **Full-Stack Developer roles** to contribute to **innovative MERN projects**, collaborate with talented teams, and grow professionally. 🚀🤝
+Actively seeking **Full-Stack Developer / MERN Stack Developer / React Developer roles** to contribute to **scalable products, collaborative engineering teams, and long-term software solutions.** 🚀🤝
 
 ---
 <div align="center" >
 
 ### ⭐ Support My Work
-If my projects inspire you, consider supporting me! ☕  
+If my projects add value, consider supporting or starring the repositories.
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/akhshyganesh)
 
 </div>
 
 <div align="center" >
 
-**⭐ Star my repositories if you find my full-stack projects valuable! short!**
+**⭐ Star my repositories if you find my full-stack projects valuable!**
 **🤝 Let’s connect and create scalable, high-performance web applications together!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VivekRaja01&style=for-the-badge&color=blueviolet)
